@@ -1,4 +1,7 @@
-### Hi there 👋
+### Nice to meet you 👋
+I'm currently learning in Tianjin University of Technology.
+I'm looking for help with Computer Vision.
+I like working out and playing badminton.
 
 <!--
 **70MT/70MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
